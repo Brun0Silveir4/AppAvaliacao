@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app revisao</string>
+    <string name="PrimeiroValor"></string>
+    <string name="SegundoValor"></string>
+    <string name="Calc"></string>
+
+</resources>
